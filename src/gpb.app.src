@@ -30,5 +30,6 @@
              gpb_gen_types, gpb_gen_verifiers, gpb_scan, gpb_parse,
              gpb_lib, gpb_names]},
   {applications, [kernel, stdlib]},
+  {included_applications, [syntax_tools, compiler, eunit]},
   {registered, []},
   {env, []}]}.
