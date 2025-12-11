@@ -4,7 +4,7 @@ definitions files for Erlang.
 
 Shortcuts: [API documentation](https://hexdocs.pm/gpb/) ~ [gpb on hex.pm](https://hex.pm/packages/gpb/)
 
-![GPB OpenRiak Status](https://github.com/OpenRiak/gpb/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![GPB OpenRiak Status](https://github.com/OpenRiak/gpb/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 Basic example of using gpb
 --------------------------
